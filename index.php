@@ -229,6 +229,7 @@
               <img width="200px" src="images/mypic.jpg ">
             <p class="made-by-me ">Ifeanyi Izuegbu, 2018</p>
             <p>Here are links to my social media profile</p>
+            <p>Email:ifeanyiizuegbu@yahoo.com</p>
             <div class="social-links ">
               <a href="http://www.twitter.com/IzuegbuIfeanyi2?s=08">
                 <i class="fa fa-twitter "></i>
