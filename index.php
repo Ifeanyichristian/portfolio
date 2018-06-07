@@ -73,7 +73,7 @@
             </span>
           </h4>
           <div class="page-scroll">
-            <a href="http://goo.gl/e2d2yu" class="button button-ghost animated fadeInLeft" style="background-color:red;">Hire Me</a>
+            <a href="http://goo.gl/forms/UiLYdpSshE9RvuN33" class="button button-ghost animated fadeInLeft" style="background-color:red;">Hire Me</a>
           </div>
           <h3 id="typed"></h3>
 
